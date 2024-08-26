@@ -1,0 +1,48 @@
+button{
+    background-color: green;
+color: white;
+}
+#para1{
+    color: black;
+}
+#para2{
+    color: blue;
+}
+.content{
+    background-color: aliceblue;
+    color: chocolate;
+}
+.outer-box{
+    width: 300px;
+    height: 150px;
+    background-color: #1c5858;
+    margin-left: 50px;
+    padding-left: 100px;
+    border: 5px solid;
+    border-color: #FFEB3B;
+    margin-top: 10px;
+}
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-top: 10px;
+  
+}
+.secondbox{
+    margin-left: 100px;
+    padding-left: 70px;
+    padding-top: 50px;
+  
+}
+.innerdiv{
+    margin-left: 10px;
+    background-color: rgb(204, 136, 34);
+    width: 200px;
+    height: 100px;
+}
+.whiteclass{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
